@@ -1,0 +1,6 @@
+node5.cs.arizona.edu 150.135.65.7 
+node2.cs.arizona.edu 150.135.65.4 
+node3.cs.arizona.edu 150.135.65.5 
+vicci66.cs.princeton.edu 128.112.171.150 
+vicci65.cs.princeton.edu 128.112.171.148 
+node4.cs.arizona.edu 150.135.65.6 
